@@ -1,7 +1,7 @@
 # dio-desafio-github-primeiro-repositorio
 Desafio de Projeto sobre Git/GitHub
 
-# Recheio Pretígio 
+# Recheio Prestígio 
 
 ### Ingredientes
 

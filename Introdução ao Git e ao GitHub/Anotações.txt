@@ -1,0 +1,55 @@
+10 comandos do Git mais usados
+
+1. Git clone
+
+git clone <https://link-com-o-nome-do-repositório>
+
+2. Git branch
+
+Como criar uma branch:
+
+git branch <nome-da-branch>
+
+Como ver as branches:
+
+git branch ou git branch --list
+
+Como excluir uma branch:
+
+3. Git checkout
+
+git checkout <nome-da-branch>
+
+4. Git status
+
+git status
+
+5. Git add
+
+git add <arquivo>
+
+6. Git commit
+
+git commit -m "mensagem do commit"
+
+7. Git push
+
+git push <repositório-remoto> <nome-da-branch>
+
+8. Git pull
+
+git pull <repositório-remoto>
+
+9. Git revert
+
+git revert 3321844
+
+10. Git merge
+
+git checkout dev
+
+git fetch
+
+git merge <nome-da-branch-com-o-recurso>
+
+
